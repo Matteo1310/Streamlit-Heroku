@@ -1,6 +1,8 @@
 import streamlit as st
 from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
 
+
+import torch 
 # Sentiment analysis pipeline
 
 
