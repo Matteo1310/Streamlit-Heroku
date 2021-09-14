@@ -1,8 +1,10 @@
 
-#Matteo Chayrigues Pierre Seutet 
-#https://dashboard.heroku.com/apps/chayrigues/activity/builds/3675ba64-674f-4851-b326-31039015ae82
+#Matteo Chayrigues and  Pierre Seutet 
+#https://chayrigues.herokuapp.com    -> correspond au lien de l'application avec L'api
 
-# Ca ne fonctionne pas car Heroku n'accepte pas plus de 500M nous n'avons pas eu le temps d'utiliser l'api pour le moment. 
+#https://dashboard.heroku.com/apps/chayrigues/activity/builds/3675ba64-674f-4851-b326-31039015ae82 -> correspond au lien de l'application sans l'api
+
+# Nous avons fait avec l'api et sans l'api nous avons donc enlev Pytorch et transformers  
 
 
 
